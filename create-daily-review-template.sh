@@ -1,6 +1,5 @@
 #!/bin/sh
 today=`date "+%Y-%m-%d"`
-# today="hoge"
 
 echo $today
 
